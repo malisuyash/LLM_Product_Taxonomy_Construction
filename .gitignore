@@ -1,0 +1,30 @@
+# Large dataset files
+Final_Cleaned_Data.csv
+icecat_data_test.json
+icecat_data_train.json
+icecat_data_validate.json
+
+# Experimental notebooks
+New.ipynb
+Test3.ipynb
+Test3 copy.ipynb
+Test3 copy 2.ipynb
+Test3 copy 3.ipynb
+min_max.ipynb
+min_max(100-300).ipynb
+min_max(100-300)_Optics.ipynb
+min_max(100-500).ipynb
+Preprocessing 2.ipynb
+preprocessing copy.ipynb
+Updated_Approach().ipynb
+Updated_Approach(200).ipynb
+
+# Environment & IDE
+.vscode/
+venv/
+.env
+
+# Misc
+taxonomy_experiments/
+extracted_notebook.py
+Notebook/
