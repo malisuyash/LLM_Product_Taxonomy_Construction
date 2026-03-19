@@ -144,10 +144,10 @@ https://github.com/malisuyash/LLM_Product_Taxonomy_Construction
 ## 🛠️ Tech Stack
 
 * Python
-* Pandas, NumPy
+* Pandas, NumPy, anytree, SentenceTransformer
 * Scikit-learn
 * Sentence Transformers
-* Clustering Algorithms (HDBSCAN, KMeans, etc.)
+* Clustering Algorithms (HDBSCAN, DBSCAN, OPTICS etc.)
 * Large Language Models (LLMs)
 
 ---
